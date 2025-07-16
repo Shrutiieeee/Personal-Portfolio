@@ -1,1 +1,1 @@
-# Personal-Portfolio
+A responsive and visually engaging personal portfolio crafted using Tailwind CSS as part of a 5 day bootcamp challenge. The site showcases my education, projects, contact form, and design sense structured through clean layouts, interactive transitions, and a user-friendly experience. 
